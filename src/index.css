@@ -1,3 +1,6 @@
+
+
+
 * {
   margin: 0;
   padding: 0;
@@ -16,4 +19,6 @@
 
 body {
   background-color: rgb(255, 255, 255);
+  background-image: url('./items/BG.jpg');
+  background-size: cover;
 }

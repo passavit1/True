@@ -4,11 +4,14 @@ import styled from "styled-components";
 import { Nav } from "../../components/index";
 
 
+
 const StyledContainer = styled.div`
   height: 100vh;
   display: flex;
   flex-direction: column;
   cursor: default;
+  
+  
 
   .NavContainer {
     height: 7%;
@@ -17,8 +20,7 @@ const StyledContainer = styled.div`
 
   .EventContainer {
     height: 93%;
-    padding-bottom: 1%;
-
+    padding-bottom: 1%; 
     
     
   }
