@@ -18,7 +18,7 @@ function App() {
     <div>
        <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Index_page />} />
+          <Route path="/True" element={<Index_page />} />
           <Route path="/event1" element={<Event1 />} />
           <Route path="/event2" element={<Event2 />} />
           <Route path="/event3" element={<Event3 />} />
