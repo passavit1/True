@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-pascal-case */
-import { useState } from "react";
-import { Routes, Route, useNavigate } from "react-router-dom";
+
+import { Routes, Route } from "react-router-dom";
 import {
   Index_page,
   Event1,
@@ -9,7 +9,6 @@ import {
   Event4,
   Event5,
   Test,
-  LoadingPage,
 } from "./Pages/index";
 
 function App() {
