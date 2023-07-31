@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 import { Nav } from "../../components/index";
 
+
 const StyledContainer = styled.div`
   height: 100vh;
   display: flex;
@@ -11,11 +12,15 @@ const StyledContainer = styled.div`
 
   .NavContainer {
     height: 7%;
+    
   }
 
   .EventContainer {
     height: 93%;
     padding-bottom: 1%;
+
+    
+    
   }
 `;
 

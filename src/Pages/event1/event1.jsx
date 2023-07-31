@@ -5,6 +5,8 @@ import { Nav } from "../../components/index";
 
 const StyledContainer = styled.div`
   height: 100vh;
+
+  background-image:url("../../items/BG.jpg")
 `;
 
 const StyledTest = styled.div`
