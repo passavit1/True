@@ -26,7 +26,7 @@ const StyledNav = styled.div`
 const Nav = () => {
   return (
     <StyledNav>
-      <Link to="/" style={{ textDecoration: "none" }}>
+      <Link to="/True" style={{ textDecoration: "none" }}>
         <div className="inside">TRUE @ THAMMASAT</div>
       </Link>
     </StyledNav>
