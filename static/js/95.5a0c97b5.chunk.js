@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrue=self.webpackChunktrue||[]).push([[95],{7095:function(e,a,t){e.exports=t.p+"static/media/ipad-gen10-1.f54aaab2838e98633609.jpg"}}]);

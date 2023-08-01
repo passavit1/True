@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrue=self.webpackChunktrue||[]).push([[834],{8834:function(e,c,t){e.exports=t.p+"static/media/ipad-air5-9.f0fd28dcc972ddbc42e9.jpg"}}]);
