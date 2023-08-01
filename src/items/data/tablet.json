@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "ipad-air5",
+    "price": 500,
+    "promotion": "10% off",
+    "storage": "64GB",
+    "ram": "4GB",
+    "display": "10.1 inch",
+    "camera": "8 MP",
+     "imageURLs": [
+        "ipad-air5-1.jpg",
+        "ipad-air5-2.jpg",
+        "ipad-air5-3.jpg",
+        "ipad-air5-4.jpg",
+        "ipad-air5-5.jpg",
+        "ipad-air5-6.jpg",
+        "ipad-air5-7.jpg",
+        "ipad-air5-8.jpg",
+        "ipad-air5-9.jpg",
+        "ipad-air5-10.jpg",
+        "ipad-air5-11.jpg",
+        "ipad-air5-12.jpg"
+        
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ipad-gen10",
+    "price": 600,
+    "promotion": "15% off",
+    "storage": "128GB",
+    "ram": "6GB",
+    "display": "11 inch",
+    "camera": "12 MP",
+     "imageURLs": [
+        "ipad-gen10-1.jpg",
+        "ipad-gen10-2.jpg",
+        "ipad-gen10-3.jpg",
+        "ipad-gen10-4.jpg",
+        "ipad-gen10-5.jpg",
+        "ipad-gen10-6.jpg",
+        "ipad-gen10-7.jpg",
+        "ipad-gen10-8.jpg",
+        "ipad-gen10-9.jpg",
+        "ipad-gen10-10.jpg",
+        "ipad-gen10-11.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ipad-gen9",
+    "price": 800,
+    "promotion": "10% off",
+    "storage": "256GB",
+    "ram": "8GB",
+    "display": "12 inch",
+    "camera": "24 MP",
+    "imageURLs": [
+        "ipad-gen9-1.jpg",
+        "ipad-gen9-2.jpg",
+        "ipad-gen9-3.jpg",
+        "ipad-gen9-4.jpg",
+        "ipad-gen9-5.jpg",
+        "ipad-gen9-6.jpg",
+        "ipad-gen9-7.jpg",
+        "ipad-gen9-8.jpg",
+        "ipad-gen9-9.jpg",
+        "ipad-gen9-10.jpg",
+        "ipad-gen9-11.jpg"
+        
+    ]
+  }
+  
+]
